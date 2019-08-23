@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.apptik.multiview:common:0.0.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/common-0.0.3.aar/ae1aaf0ba5111764681d1cc906e9b132/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/common-0.0.3.aar/ae1aaf0ba5111764681d1cc906e9b132/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.apptik.multiview/common/0.0.3/4b56c013529525d1d39d86f1dfef2228ed0c3e6c/common-0.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

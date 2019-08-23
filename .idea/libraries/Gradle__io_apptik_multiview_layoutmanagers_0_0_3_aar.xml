@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.apptik.multiview:layoutmanagers:0.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/layoutmanagers-0.0.3.aar/f47ede08b40b50d1f02566118a92bb06/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/layoutmanagers-0.0.3.aar/f47ede08b40b50d1f02566118a92bb06/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.apptik.multiview/layoutmanagers/0.0.3/7eacab6ee61bf6182e23d03025518367afeb65b4/layoutmanagers-0.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
